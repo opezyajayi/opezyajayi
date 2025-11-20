@@ -58,7 +58,7 @@
 |--------|-------------|------|
 | 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/opezyajayi/Building-a-virtual-home-lab-project) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/opezyajayi/Active-directory-deployment-and-configutation) |
-| 03-ad-enum-privesc | Enumerating and escalating privileges in AD | [View Repo](#) |
+| 03-AWS-IAM | AWS IAM Security cloud project | [View Repo](https://github.com/opezyajayi/AWS-IAM-Cloud-security-project) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](#) |
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
@@ -69,7 +69,7 @@
 | 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](#) |
 | 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](#) |
 | 13-malware-analysis | Static and dynamic malware triage | [View Repo](#) |
-| 14-AWS-IAM | AWS IAM Security cloud project | [View Repo](https://github.com/opezyajayi/Active-directory-deployment-and-configutation) |
+
 ---
 
 ## Contact
