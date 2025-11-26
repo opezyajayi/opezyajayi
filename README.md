@@ -63,7 +63,7 @@
 | 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](#) |
 | 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](#) |
 | 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](#) |
-| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](#) |
+| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting project | [View Repo](https://github.com/opezyajayi/MITRE-Threat-hunting) |
 | 09-Threat-modeling | OWASP Threat Dragon & Microsoft Threat modeling tool| [View Repo](#) |
 | 10-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](#) |
 | 11-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](#) |
